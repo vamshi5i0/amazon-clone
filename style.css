@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
+
+nav img{
+    width:100px;
+    height: 100px;
+}
+
+.conatiner{
+    background-image: url(../box3_image.jpg);
+}
