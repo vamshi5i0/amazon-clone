@@ -162,3 +162,8 @@ body {
 .nav-flag :hover {
     border: 1px solid white;
 }
+.hero_section > img {
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+}
